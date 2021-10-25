@@ -10,7 +10,12 @@
 
 #### Mobile view : 
 
+
+![picture alt](https://github.com/shariful-pradhan-hridoy/notes-app/blob/master/src/images/mobile-view.png)
+
 #### Desktop View: 
+
+![picture alt](https://github.com/shariful-pradhan-hridoy/notes-app/blob/master/src/images/desktop-view.png)
 
 
 
